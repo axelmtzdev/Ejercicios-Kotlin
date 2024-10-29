@@ -18,7 +18,6 @@ Algunos de los problemas de lógica resueltos en el repositorio incluyen:
 Cada ejercicio está documentado con:
 - **Descripción** del problema
 - **Solución en código Kotlin**, comentada y explicada para facilitar la comprensión
-- Posibles optimizaciones o variantes del enfoque inicial
 
 ### Contribuciones
 Este es un proyecto abierto para contribuciones. Si deseas agregar nuevos ejercicios o mejorar las soluciones existentes, ¡siéntete libre de hacer un *pull request*!
