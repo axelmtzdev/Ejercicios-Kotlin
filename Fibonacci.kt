@@ -7,19 +7,17 @@
  */
 
 fun main() {
-
-
-    var n0:Long = 0
-    var n1:Long = 1
+    var number1:Long = 0
+    var number2:Long = 1
     var iterador = 50
     
     while(iterador > 0){
      
-        println(n0)
+        println(number1)
         
-        val fib = n0+n1
-        n0 = n1
-        n1 = fib
+        val fib = number1+number2
+        number1 = number2
+        number2 = fib
         
         iterador --
     }
